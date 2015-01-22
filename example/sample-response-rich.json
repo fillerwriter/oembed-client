@@ -1,0 +1,10 @@
+{
+  "type": "rich",
+  "html": "<h1>This is some html</h1><iframe src=\"http://reliefweb.int\" width=\"600\" height=\"600\"></iframe>",
+  "title": "crisis-overview",
+  "provider_name": "ReliefWeb",
+  "provider_url": "http://reliefweb.int",
+  "version": "1.0",
+  "height": 600,
+  "width": 600
+}
