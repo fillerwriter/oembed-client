@@ -1,6 +1,10 @@
 {
   "name": "oembed-client-cors",
   "version": "0.0.0",
+  "ignore": [],
+  "main": [
+    "src/oembed-client-cors.js"
+  ],
   "dependencies": {},
   "devDependencies": {
     "qunit": "~1.12.0",
